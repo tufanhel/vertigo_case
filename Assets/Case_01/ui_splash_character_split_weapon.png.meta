@@ -100,7 +100,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones:
-    - name: bone_1
+    - name: root_weapon
       guid: f7bcc4c00bcd745499c3213839b55496
       position: {x: 56.12663, y: 330.5505, z: 0}
       rotation: {x: 0, y: 0, z: -0.18041746, w: 0.9835901}
