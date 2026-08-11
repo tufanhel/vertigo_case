@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PumpkinFireDissolve
+  m_Shader: {fileID: 4800000, guid: 09799c3f665cd42a1a60bfeb9d161ff8, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 26e7089ffc4784b31a165550fdb7f00c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: c1173777ab7f54b5ca7de13ac1f7f8bd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _DissolveAmount: 0
+    - _DissolveDirection: 0
+    - _EdgeWidth: 0.3
+    - _EmissionIntensity: 5.74
+    - _FlickerIntensity: 0.116
+    - _FlickerSpeed: 5.9
+    - _NoiseScale: 1.5
+    - _VerticalBias: 0.3
+    m_Colors:
+    - _EdgeColor1: {r: 4, g: 3, b: 1, a: 1}
+    - _EdgeColor2: {r: 3, g: 0.8, b: 0, a: 1}
+    - _EdgeColor3: {r: 1.5, g: 0.1, b: 0, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
