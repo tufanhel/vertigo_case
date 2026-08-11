@@ -1919,7 +1919,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2955555151512590896, guid: e122cb347d2b649baa22163d2ff8d006, type: 3}
       propertyPath: InitialModule.startColor.maxColor.a
-      value: 0.77254903
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7095848017832146320, guid: e122cb347d2b649baa22163d2ff8d006, type: 3}
       propertyPath: m_LocalScale.x
